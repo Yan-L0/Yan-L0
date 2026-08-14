@@ -1,89 +1,45 @@
-# Yan-L0
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Yan_Lo;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-
-### Frontend / Full-stack Developer
-
-Building useful digital products with clean interfaces, reliable integrations and a strong focus on user experience.
-
-<p>
-  <a href="https://github.com/Yan-L0"><img src="https://img.shields.io/badge/GitHub-Yan--L0-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/Yan-L0/rovyn-vpn-platform"><img src="https://img.shields.io/badge/Featured%20project-Rovyn-6C5CE7?style=for-the-badge" alt="Rovyn VPN Platform" /></a>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/181637429?u=4e82e233d38219ca46e214ef107b1339f089f49d&v=4" width="150" style="border-radius: 50%;" alt="Yan_Lo" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:312E81,100:7C3AED&height=160&section=header&text=Hello%20there&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Hello there" />
+## 👨‍💻 About Me
 
-</div>
+Passionate developer building awesome things.
 
-## About me
+- 👥 **0** followers · **0** following
 
-I’m a frontend and full-stack developer building web products from interface to infrastructure. I enjoy turning complex ideas into clear, responsive and maintainable applications.
+## 📊 GitHub Stats
 
-At the moment I’m focused on:
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora" alt="GitHub Stats" /></picture>
+</p>
 
-- modern frontend architecture and polished UI;
-- full-stack products with APIs, authentication and databases;
-- Telegram Mini Apps and service integrations;
-- Docker-based development and deployment;
-- continuously expanding into backend, DevOps and product engineering.
+## 🚀 Featured Projects
 
-## Selected work
+### [YP.02.2025-vasiliev](https://github.com/Yan-L0/YP.02.2025-vasiliev)
+No description provided
+⭐ 0 | 🍴 0
 
-### [Rovyn VPN Platform](https://github.com/Yan-L0/rovyn-vpn-platform)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora" alt="yan-l0 contribution activity" /></picture>
+</p>
 
-A Telegram-first VPN platform with a responsive Mini App, subscription flows, service integrations and a product-oriented user experience.
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=yan-l0&theme=aurora" alt="yan-l0 highlights" /></picture>
+</p>
 
-`React` `TypeScript` `Telegram Mini App` `API integrations` `Docker`
+## 🤝 Connect With Me
 
-### Vape Bazar Store
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=yan-l0&theme=aurora" alt="yan-l0 social links" /></picture>
+</p>
 
-A full-stack e-commerce product with a responsive storefront, catalog experience and the supporting application infrastructure.
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yan-l0)
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
+---
 
-## Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,vite,nodejs,python,go,postgres,mongodb,docker,linux,git,github&perline=9" alt="Technology stack" />
-
-</div>
-
-## Currently learning
-
-```text
-Frontend architecture  ███████████████░░░  80%
-Full-stack development ██████████████░░░░░  75%
-Backend & APIs         ████████████░░░░░░░  65%
-DevOps & infrastructure██████████░░░░░░░░░  55%
-Product design         ███████████░░░░░░░░  60%
-```
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yan-L0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=a78bfa&icon_color=8b5cf6&text_color=94a3b8" alt="Yan-L0's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-L0&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=a78bfa&text_color=94a3b8" alt="Top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Yan-L0&hide_border=true&background=00000000&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="GitHub streak" />
-
-</div>
-
-## Let’s connect
-
-I’m open to interesting product ideas, collaborations and opportunities where thoughtful frontend work meets real-world engineering.
-
-<div align="center">
-
-<a href="https://github.com/Yan-L0">GitHub</a> · Building products, learning continuously, shipping with purpose.
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Yan-L0&style=flat-square&color=7c3aed" alt="Profile views" />
-
-</div>
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
