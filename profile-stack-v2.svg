@@ -1,0 +1,17 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#12101F"/></linearGradient><linearGradient id="a"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}.m{font-family:'SFMono-Regular',Consolas,monospace}</style></defs>
+<rect x="1" y="1" width="1198" height="248" rx="20" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+<text x="48" y="58" class="s" font-size="25" font-weight="750" fill="#F0F6FC">Tools I build with</text><text x="48" y="87" class="s" font-size="14" fill="#8B949E">A practical stack for modern product development.</text>
+<g class="s" font-size="13" fill="#C9D1D9">
+<rect x="48" y="118" width="130" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="66" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="91" y="150">TypeScript</text>
+<rect x="190" y="118" width="105" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="208" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="233" y="150">React</text>
+<rect x="307" y="118" width="108" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="325" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="350" y="150">Next.js</text>
+<rect x="427" y="118" width="112" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="445" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="470" y="150">Node.js</text>
+<rect x="551" y="118" width="106" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="569" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="594" y="150">Python</text>
+<rect x="669" y="118" width="136" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="687" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="712" y="150">PostgreSQL</text>
+<rect x="817" y="118" width="110" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="835" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="860" y="150">Docker</text>
+<rect x="939" y="118" width="96" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="957" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="982" y="150">Linux</text>
+<rect x="1047" y="118" width="105" height="56" rx="10" fill="#161B22" stroke="#30363D"/><rect x="1065" y="138" width="12" height="12" rx="3" fill="url(#a)"/><text x="1090" y="150">GitHub</text>
+</g>
+<text x="48" y="215" class="m" font-size="11" letter-spacing="1.5" fill="#6E7681">FRONTEND · BACKEND · DATABASES · INFRASTRUCTURE</text>
+</svg>
