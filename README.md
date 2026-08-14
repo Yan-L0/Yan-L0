@@ -1,68 +1,92 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B+I'm+Yan_Lo;Frontend+%2F+Full-stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/181637429?u=4e82e233d38219ca46e214ef107b1339f089f49d&v=4" width="150" alt="Yan_Lo" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:312e81,100:7c3aed&height=180&section=header&text=Yan_Lo&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Yan_Lo" />
 
-<p align="center">
+### Frontend · Full-stack · Product
+
+<p>Building digital products from interface to infrastructure.</p>
+
+<p>
   <a href="https://github.com/Yan-L0"><img src="https://img.shields.io/badge/GitHub-Yan--L0-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://github.com/Yan-L0/rovyn-vpn-platform"><img src="https://img.shields.io/badge/Building-Rovyn%20VPN-22C55E?style=for-the-badge&logo=wireguard&logoColor=white" alt="Rovyn VPN" /></a>
+  <a href="https://github.com/Yan-L0/rovyn-vpn-platform"><img src="https://img.shields.io/badge/Building-Rovyn%20VPN-7c3aed?style=for-the-badge" alt="Rovyn VPN" /></a>
 </p>
 
-## 👨‍💻 About Me
+</div>
 
-Frontend / full-stack developer building useful digital products with clean interfaces, reliable integrations and a strong focus on user experience.
+## About me
 
-- 🚀 Building a Telegram-first VPN platform and e-commerce products
-- 🎨 Focused on React, TypeScript, responsive UI and product design
-- 🔌 Working with APIs, databases, WebSockets and Telegram Mini Apps
-- 🐳 Growing in backend engineering, DevOps and infrastructure
-- 🌱 Always learning and exploring new technologies
+I’m a frontend and full-stack developer creating useful web products with clean interfaces, reliable integrations and a strong focus on user experience.
 
-## 🛠️ Tech Stack
+Currently focused on:
 
-<p align="center">
+- modern frontend architecture and polished responsive UI;
+- full-stack products with APIs, authentication and databases;
+- Telegram Mini Apps and service integrations;
+- Docker-based development and deployment;
+- growing deeper into backend engineering, DevOps and AI tools.
+
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 · Rovyn VPN
+
+Telegram-first VPN platform with a responsive Mini App, subscription flows and service integrations.
+
+`React` `TypeScript` `Telegram` `Docker`
+
+<br />
+
+<a href="https://github.com/Yan-L0/rovyn-vpn-platform">View project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 · Vape Bazar
+
+Full-stack e-commerce product with a responsive storefront, product catalog and application infrastructure.
+
+`React` `TypeScript` `Node.js` `PostgreSQL`
+
+<br />
+
+Product in development
+
+</td>
+</tr>
+</table>
+
+## Tech stack
+
+<p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,vite,nodejs,python,go,postgres,mongodb,docker,linux,git,github&perline=9" alt="Technology stack" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub activity
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora" alt="GitHub Stats" /></picture>
-</p>
-
-## 🚀 Featured Projects
-
-### [Rovyn VPN Platform](https://github.com/Yan-L0/rovyn-vpn-platform)
-
-Telegram-first VPN platform with a responsive Mini App, subscription flows, service integrations and a product-oriented user experience.
-
-`React` `TypeScript` `Telegram Mini App` `API integrations` `Docker`
-
-### Vape Bazar Store
-
-Full-stack e-commerce product with a responsive storefront, product catalog and supporting application infrastructure.
-
-`React` `TypeScript` `Node.js` `PostgreSQL` `Docker`
-
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora" alt="Yan-L0 contribution activity" /></picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yan-L0&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=a78bfa&icon_color=8b5cf6&text_color=94a3b8" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-L0&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=a78bfa&text_color=94a3b8" height="170" alt="Top languages" />
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=yan-l0&theme=aurora" alt="Yan-L0 highlights" /></picture>
+  <img src="https://streak-stats.demolab.com?user=Yan-L0&hide_border=true&background=00000000&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="GitHub streak" />
 </p>
 
-## 🤝 Connect With Me
+## Connect
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=yan-l0&theme=aurora" alt="Yan-L0 social links" /></picture>
+<p>
+  I’m open to interesting product ideas, collaborations and opportunities where thoughtful frontend work meets real-world engineering.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Yan-L0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<p>
+  <a href="https://github.com/Yan-L0">GitHub</a> · Building products, learning continuously, shipping with purpose.
 </p>
 
-<p align="center">Profile README styled with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Yan-L0&style=flat-square&color=7c3aed" alt="Profile views" />
+
+</div>
