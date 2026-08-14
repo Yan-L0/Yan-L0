@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-hero-v2.svg" width="100%" alt="Yan_Lo — Frontend and Full-stack Developer" />
+  <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-hero-v3.svg" width="100%" alt="Yan_Lo — Frontend and Full-stack Developer" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ I’m a frontend and full-stack developer who enjoys transforming complex ideas 
 - Building product interfaces with React and TypeScript
 - Designing full-stack flows around APIs, authentication and databases
 - Creating Telegram Mini Apps and third-party integrations
-- Expanding deeper into backend engineering, DevOps and AI-assisted development
+- Expanding deeper into backend engineering and DevOps
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-projects-v2.svg" width="100%" alt="Selected projects: Rovyn VPN and Vape Bazar" />
@@ -26,18 +26,17 @@ I’m a frontend and full-stack developer who enjoys transforming complex ideas 
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-stack-v2.svg" width="100%" alt="Technology stack" />
+  <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-stack-v3.svg" width="100%" alt="Technology stack" />
 </p>
 
 ## Development activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yan-L0&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=a78bfa&icon_color=22d3ee&text_color=94a3b8" height="168" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-L0&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=a78bfa&text_color=94a3b8" height="168" alt="Top languages" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora" alt="GitHub activity overview" /></picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yan-L0&hide_border=true&background=00000000&ring=8b5cf6&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=94a3b8&dates=64748b&currStreakNum=f8fafc&sideNums=f8fafc" alt="GitHub streak" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora" alt="Contribution activity" /></picture>
 </p>
 
 ---
