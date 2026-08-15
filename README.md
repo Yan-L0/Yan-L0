@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-hero-v3.svg" width="100%" alt="Yan_Lo — Frontend and Full-stack Developer" />
+  <img src="https://www.gitskins.com/api/section/hero?username=Yan-L0&theme=github-dark&style=aura" alt="GitSkins Animated Hero" width="860" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I’m a frontend and full-stack developer who enjoys transforming complex ideas 
 - Expanding deeper into backend engineering and DevOps
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yan-L0/Yan-L0/main/profile-projects-v2.svg" width="100%" alt="Selected projects: Rovyn VPN and Vape Bazar" />
+  <img src="https://www.gitskins.com/api/section/projects?username=Yan-L0&theme=github-dark&style=aura" alt="GitSkins Animated Projects" width="860" />
 </p>
 
 <p align="center">
@@ -32,19 +32,15 @@ I’m a frontend and full-stack developer who enjoys transforming complex ideas 
 ## Development activity
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=yan-l0&theme=aurora" alt="GitHub activity overview" /></picture>
+  <img src="https://www.gitskins.com/api/section/stats?username=Yan-L0&theme=github-dark&style=aura" alt="GitSkins Animated Stats" width="860" />
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=yan-l0&theme=aurora" alt="Contribution activity" /></picture>
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Yan-L0&theme=github-dark&style=aura" alt="GitSkins Animated Heatmap" width="860" />
 </p>
 
 ---
 
 <p align="center">
-  <strong>Building products · Learning continuously · Shipping with purpose</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Yan-L0">GitHub</a> · Open to ambitious products and collaborations
+  <img src="https://www.gitskins.com/api/section/social?username=Yan-L0&theme=github-dark&style=aura" alt="GitSkins Animated Social Row" width="860" /></br>Open to ambitious products and collaborations
 </p>
